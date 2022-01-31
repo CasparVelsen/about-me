@@ -1,1 +1,3 @@
-Hi, my name is Caspar
+Hi, my name is Caspar.
+
+I am 18 years old.
