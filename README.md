@@ -1,2 +1,2 @@
 # about-me
-some things about myself
+Here you can find some things about myself
